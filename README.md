@@ -4,9 +4,9 @@
 * Please follow this article https://medium.com/p/364d82ee2d0d for details
 
 # To build
-npx yarn install
-npx cdk synth
-npx cdk deploy --all
+* npx yarn install
+* npx cdk synth
+* npx cdk deploy --all
 
 # To cleanup
 npx cdk destroy --all
